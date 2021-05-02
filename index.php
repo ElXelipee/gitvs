@@ -7,6 +7,6 @@
     <title>GIT - VSCode - comenzando desde 0</title>
 </head>
 <body>
-    
+    <p>Primer parrafo en el proyecto este</p>
 </body>
 </html>
